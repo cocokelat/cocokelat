@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cocokelat
-- 👀 I’m interested in arduino or python programming
+- 👀 I’m interested in or python programming
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on studying a language
 - 📫 Reach me at dm
